@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textViewStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:background">@color/coolGray</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="editTextStyle">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">230dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:hint">Enter grade</item>
+        <item name="android:background">@color/ivoryWhite</item>
+    </style>
+
+    <style name="FinalGradeTextViewStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:background">@color/coffeeBeige</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+</resources>

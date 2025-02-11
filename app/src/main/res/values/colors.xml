@@ -2,4 +2,17 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="coolGray">#BDC3C7</color> <!-- Cool Gray -->
+    <color name="richRed">#C0392B</color> <!-- Rich Red -->
+    <color name="charcoalBlack">#901F2023</color> <!-- Charcoal Black -->
+    <color name="ivoryWhite">#FFFFF0</color> <!-- Ivory White -->
+    <color name="coffeeLight">#B97A56</color>  <!-- Light Coffee -->
+    <color name="coffeeBeige">#C8B79F</color>  <!-- Beige Coffee -->
+    <color name="earthyBrown">#6E4B3A</color>  <!-- Earthy Brown -->
+
+
+
+
+
+
 </resources>
