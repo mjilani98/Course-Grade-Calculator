@@ -22,7 +22,7 @@
                 android:text="Programming\nAssignment"
                 />
             <EditText
-                android:id="@+id/gradeInput"
+                android:id="@+id/proAssignmentInput"
                 android:inputType="numberDecimal"
                 style="@style/editTextStyle"
                 />
